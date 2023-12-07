@@ -1,4 +1,4 @@
-Headers:
+# Headers:
 # This is a header 1
 ## This is a header 2
 ### This is a header 3
@@ -6,11 +6,11 @@ Headers:
 ##### This is a header 5
 ###### This is a header 6
 
-Image:
+# Image:
 
 ![The character Harry Tuttle portrayed by actor Robert De Niro in the 1985 film Brazil](https://github.com/wsearcySC/skills-communicate-using-markdown/assets/119954632/8a94c909-615c-49b2-818e-5daebcb6a03a)
 
-Code:
+# Code:
 ``` bash
 #Output the SMART data, taking into account the type of drive
 echo 'SMART Data:'
@@ -23,3 +23,9 @@ else
     exit 0
 fi
 ```
+
+# Checklist:
+- [ ] Learn GitHub
+- [ ] Get good at GitHub
+- [ ] ????
+- [ ] Profit
